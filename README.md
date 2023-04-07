@@ -22,7 +22,7 @@ Filebeat следует сконфигурировать для отправки
 ![image](https://user-images.githubusercontent.com/108946489/229453681-1253c572-9859-4c99-ae0c-a2d3301934e6.png)
 
 - скриншот интерфейса kibana;
-![image](https://user-images.githubusercontent.com/108946489/229455134-bf1333be-8dfb-4f47-b960-cb77ccdbf8e5.png)
+![image](https://user-images.githubusercontent.com/108946489/230662318-b49ee116-a265-46a6-b0b4-4c5b185c33a6.png))
 
 - <strike>docker-compose манифест (если вы не использовали директорию help)</strike> немного допилил из help;
 - <strike>ваши yml-конфигурации для стека (если вы не использовали директорию help)</strike> использовал готовый.
@@ -30,6 +30,7 @@ Filebeat следует сконфигурировать для отправки
 ## Задание 2
 
 Перейдите в меню [создания index-patterns  в kibana](http://localhost:5601/app/management/kibana/indexPatterns/create) и создайте несколько index-patterns из имеющихся.
+![image](https://user-images.githubusercontent.com/108946489/230662832-6839525e-250d-498f-90d1-89e02356935b.png)
 
 Перейдите в меню просмотра логов в kibana (Discover) и самостоятельно изучите, как отображаются логи и как производить поиск по логам.
 
